@@ -273,7 +273,7 @@ MIT License - Feel free to use for learning and personal projects!
 
 **Praveen** - Full Stack Developer
 - GitHub: [@praveens2666](https://github.com/praveens2666)
-- Email: your-email@example.com
+- Email: spraveen2666@gmail.com
 
 ---
 
